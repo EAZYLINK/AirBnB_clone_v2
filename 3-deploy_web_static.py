@@ -8,7 +8,7 @@ import re
 from datetime import datetime
 
 env.user = 'ubuntu'
-env.hosts = ["100.25.193.56", "18.210.19.239"]
+env.hosts = ["100.24.237.31", "100.25.129.126"]
 env.key_filename = "~/id_rsa"
 
 
